@@ -26,7 +26,7 @@ As a Quantity Surveyor exploring **blockchain**, my mission is to:
 
 ### ⚙️ Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,html,css,js,react,hardhat,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,html,css,js,react,nextjs,nodejs,git)](https://skillicons.dev)
 
 ---
 
@@ -45,13 +45,13 @@ I'm currently building a platform called **TokenEstate** (coming soon), which wi
 - Empower fractional investment in real estate assets  
 - Explore governance and DAO integration for community-driven ownership
 
-> 💡 Built with Solidity, React, Hardhat, and inspired by projects like Blocksquare & RealT.
+> 💡 Built with Solidity, React, Next.js, Node.js — inspired by projects like Blocksquare & RealT.
 
 ---
 
 ### 📎 Resume
 
-📄 [Click to view or download my resume](https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing)
+📄 [Click to view or download my resume](https://drive.google.com/file/d/1A-ATnV1FRu1VzOYRa5AdxXTuwfn0DmU2/view?usp=sharing)
 
 ---
 
@@ -61,8 +61,8 @@ I'm currently building a platform called **TokenEstate** (coming soon), which wi
   <a href="https://linkedin.com/in/osbon-keya">
     <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
   </a>
-  <a href="https://github.com/keyanureeves">
-    <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="GitHub" width="35" height="35"/>
+  <a href="https://twitter.com/keyanureeves">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="35" height="35"/>
   </a>
   <a href="mailto:osbonkeya@gmail.com">
     <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Gmail" width="35" height="35"/>
