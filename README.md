@@ -25,7 +25,7 @@ As a **Quantity Surveyor** learning **Solidity and Rust**, I aim to:
 
 ### ⚙️ Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,html,css,js,react,hardhat,foundry,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,html,css,js,react,hardhat,git,github)](https://skillicons.dev)
 
 ---
 
@@ -39,7 +39,7 @@ As a **Quantity Surveyor** learning **Solidity and Rust**, I aim to:
 
 #### 🔗 TokenEstate *(Coming Soon)*
 > A smart contract platform to tokenize, list, and manage properties  
-> Built with: Solidity, React, Hardhat, Foundry
+> Built with: Solidity, React, Hardhat
 
 #### 🏗 UN Gigiri Complex *(Intern @ Esteel)*
 > Assisted in method statements, LEED compliance, client meetings, and safety documentation
