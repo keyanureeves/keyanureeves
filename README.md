@@ -14,12 +14,13 @@
 
 ### 🛠 My Mission
 
-I’m passionate about connecting **built environments** and **decentralized tech**.  
-As a **Quantity Surveyor** learning **Solidity and Rust**, I aim to:
+I’m passionate about bridging the gap between **traditional real estate** and **Web3 technologies**.  
+As a Quantity Surveyor exploring **blockchain**, my mission is to:
 
-- 🏗 Tokenize real-world real estate  
-- 💻 Build smart contracts with security and transparency  
-- 🌍 Contribute to accessible and open Web3 infrastructure  
+- 🏗 Build decentralized infrastructure for real estate  
+- 💰 Tokenize physical property into digital assets  
+- 🔐 Create secure, transparent smart contracts with Solidity  
+- 🌍 Enable fractional ownership and investment through the blockchain
 
 ---
 
@@ -35,20 +36,16 @@ As a **Quantity Surveyor** learning **Solidity and Rust**, I aim to:
 
 ---
 
-### 🛠️ Projects & Experience
+### 🧱 My Web3 Focus
 
-#### 🔗 TokenEstate *(Coming Soon)*
-> A smart contract platform to tokenize, list, and manage properties  
-> Built with: Solidity, React, Hardhat
+I'm currently building a platform called **TokenEstate** (coming soon), which will allow users to:
 
-#### 🏗 UN Gigiri Complex *(Intern @ Esteel)*
-> Assisted in method statements, LEED compliance, client meetings, and safety documentation
+- List and tokenize real-world properties  
+- Use smart contracts for transparent transactions  
+- Empower fractional investment in real estate assets  
+- Explore governance and DAO integration for community-driven ownership
 
-#### 📊 Geocom Construction *(QS Intern)*
-> BOQs, cost research, tender analysis, budgeting, and interim applications
-
-#### 🏘 Ownom Property Smart *(Real Estate Attachee)*
-> Created listings, consulted clients, and conducted market research
+> 💡 Built with Solidity, React, Hardhat, and inspired by projects like Blocksquare & RealT.
 
 ---
 
@@ -76,4 +73,4 @@ As a **Quantity Surveyor** learning **Solidity and Rust**, I aim to:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=003566&height=120&section=footer" alt="footer"/>
 
-<!-- Let’s build the future — one smart contract and one building at a time. -->
+<!-- Let's tokenize real estate — securely, transparently, and globally. -->
