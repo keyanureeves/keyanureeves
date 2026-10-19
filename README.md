@@ -7,45 +7,57 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=003566&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Osbon;Quantity+Surveyor;Web3+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Osbon;Programmer+%7C+Backend+%26+Web3;I+turn+complex+problems+into+clean+code;Currently+shipping+%3A+smart+contracts+%2B+APIs" alt="Typing SVG" />
 </a>
 
 ---
 
-### 🛠 My Mission
+### 👋 About Me
 
-I’m passionate about bridging the gap between **traditional real estate** and **Web3 technologies**.  
-As a Quantity Surveyor exploring **blockchain**, my mission is to:
+I'm a programmer who likes building things that work quietly and reliably behind the scenes.  
+I started in **Web3**, writing smart contracts where every line of code handles real value and mistakes are permanent. That taught me to write careful, secure code.  
+Now I'm taking that mindset into **backend development**: APIs, databases, and the systems that hold everything together.
 
-- 🏗 Build decentralized infrastructure for real estate  
-- 💰 Tokenize physical property into digital assets  
-- 🔐 Create secure, transparent smart contracts with Solidity  
-- 🌍 Enable fractional ownership and investment through the blockchain
+```diff
++ Smart contracts that can't be undone
++ Servers that can't go down
++ Databases that can't lose data
+- Bugs that "work on my machine"
+```
 
 ---
 
-### ⚙️ Main Skills
+### 🎯 What I Do
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,html,css,js,react,nextjs,nodejs,git)](https://skillicons.dev)
+- 🔐 Write and test secure smart contracts in **Solidity**
+- ⚙️ Build backend services and APIs with **Node.js**, **TypeScript** and **Python**
+- 🗄 Design and query relational databases
+- 🎨 Prototype interfaces in **Figma** before writing a line of UI code
+- 🦀 Explore systems-level programming with **Rust**
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=solidity,rust,python,ts,js)](https://skillicons.dev)
+
+**Frontend and Design**
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,figma)](https://skillicons.dev)
+
+**Backend and Tools**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,git)](https://skillicons.dev)
 
 ---
 
 ### 📚 Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 
----
-
-### 🧱 My Web3 Focus
-
-I'm currently building a platform called **TokenEstate** (coming soon), which will allow users to:
-
-- List and tokenize real-world properties  
-- Use smart contracts for transparent transactions  
-- Empower fractional investment in real estate assets  
-- Explore governance and DAO integration for community-driven ownership
-
-> 💡 Built with Solidity, React, Next.js, Node.js — inspired by projects like Blocksquare & RealT.
+Going deep on **MySQL** and **PostgreSQL**: schema design, query optimization, and how data behaves at scale.
 
 ---
 
@@ -73,4 +85,4 @@ I'm currently building a platform called **TokenEstate** (coming soon), which wi
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=003566&height=120&section=footer" alt="footer"/>
 
-<!-- Let's tokenize real estate — securely, transparently, and globally. -->
+<!-- Write code that lasts. -->
