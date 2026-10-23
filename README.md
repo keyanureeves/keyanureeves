@@ -27,13 +27,13 @@ Now I'm taking that mindset into **backend development**: APIs, databases, and t
 
 ---
 
-### 🎯 What I Do
+###  What I Do
 
-- 🔐 Write and test secure smart contracts in **Solidity**
-- ⚙️ Build backend services and APIs with **Node.js**, **TypeScript** and **Python**
-- 🗄 Design and query relational databases
-- 🎨 Prototype interfaces in **Figma** before writing a line of UI code
-- 🦀 Explore systems-level programming with **Rust**
+- Write and test secure smart contracts in **Solidity**
+  Build backend services and APIs with **Node.js**, **TypeScript** and **Python**
+- Design and query relational databases
+- Prototype interfaces in **Figma** before writing a line of UI code
+- Explore systems-level programming with **Rust**
 
 ---
 
